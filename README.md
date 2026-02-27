@@ -9,8 +9,8 @@ AI PM building human‑centered AI systems. Shipping tools that are good for peo
 - 🤝 Looking for AI PM and data scientist roles
 
 ## Connect
-- 💼 [[LinkedIn]((https://www.linkedin.com/in/angela-orthmeyer/))]
-- 📝 [irl with friends]((https://irlwithfriends.com/))
+- 💼 https://www.linkedin.com/in/angela-orthmeyer/
+- 📝 https://irlwithfriends.com/
 - 📧 [Email](mailto:irlwithfriends.com)
 
 ---
