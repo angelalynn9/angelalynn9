@@ -1,7 +1,7 @@
 # Hi, I'm Angela Orthmeyer 👋
 
 ## What I Build
-AI PM building human‑centered AI systems. Shipping tools that are good for people and communities.
+AI Engineer building human‑centered AI systems. Shipping tools that are good for people and communities.
 
 ## What I'm Working On
 - 🔨 irl (with friends) — Mobile application to help people make authentic connections, in real life: [https://irlwithfriends.com/](https://irlwithfriends.com/)
