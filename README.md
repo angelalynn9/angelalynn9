@@ -7,7 +7,7 @@ AI Engineer building human‑centered AI systems. Shipping tools that are good f
 - 🔨 irl (with friends) — Mobile application to help people make authentic connections, in real life: [https://irlwithfriends.com/](https://irlwithfriends.com/)
 - 🧭 RoleWise: Agentic AI web application that guides job seekers through the application and interviewing process: [https://app.role-wise.com](https://role-wise.com/)
 - Organization: [https://github.com/irl-labs-us](https://github.com/irl-labs-us/)
-- 📚 Learning to build AI applications, using AI tools: Claude, Cursor, MagicPatterns, Linear, Codex/ChatGPT.
+- 📚 I build and refine AI applications, using AI tools: Claude, Cursor, MagicPatterns, Linear, Codex/ChatGPT.
 - 🤝 Looking for AI Engineering, Technical PM and Data Scientist roles - full time or consulting
 
 ## Connect
